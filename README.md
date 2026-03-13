@@ -52,7 +52,7 @@ Pergunta do usuário
 
 ## 📁 Estrutura
 
-```
+## 📁 Estrutura
 normas-rag/
 ├── README.md
 ├── requirements.txt
@@ -61,21 +61,15 @@ normas-rag/
 │   ├── pdfs/                   # PDFs das normas (não versionados)
 │   └── categorias.jsonl        # Dataset para fine-tuning
 ├── finetune/
-│   ├── train_classifier.py     # Script de fine-tuning BERT
-│   ├── evaluate.py             # Avaliação do modelo
-│   └── model/                  # Modelo salvo (não versionado)
+│   └── train_classifier.py     # Script de fine-tuning BERT
 ├── scripts/
 │   ├── ingest.py               # Llama Parse → MongoDB
-│   ├── embed.py                # Gera embeddings → ChromaDB
-│   └── seed_tags.py            # Extrai tags/metadados
-├── api/
-│   ├── app.py                  # FastAPI
-│   ├── search.py               # Busca híbrida
-│   ├── classifier.py           # Wrapper do classificador
-│   └── prompts.py              # Templates de prompts
-└── tests/
-    └── test_search.py
-```
+│   └── embed.py                # Gera embeddings → ChromaDB
+└── api/
+├── app.py                  # FastAPI
+├── search.py               # Busca híbrida
+├── classifier.py           # Wrapper do classificador
+└── prompts.py              # Templates de prompts
 
 ## 🚀 Setup
 

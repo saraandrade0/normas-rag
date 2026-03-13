@@ -10,10 +10,9 @@ from pydantic import BaseModel
 from langchain_openai import ChatOpenAI
 from dotenv import load_dotenv
 
-from search import HybridSearch
-from classifier import NormaClassifier
-from prompts import SYSTEM_PROMPT, ANSWER_TEMPLATE
-
+from api.search import HybridSearch
+from api.classifier import NormaClassifier
+from api.prompts import SYSTEM_PROMPT, ANSWER_TEMPLATE
 load_dotenv()
 
 # ─── INIT ────────────────────────────────────────────────
