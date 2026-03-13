@@ -1,0 +1,30 @@
+# Core
+python-dotenv>=1.0
+fastapi>=0.100
+uvicorn>=0.23
+
+# LLM & RAG
+langchain>=0.2
+langchain-community>=0.2
+langchain-openai>=0.1
+openai>=1.0
+llama-parse>=0.4
+
+# Embeddings & Vector Store
+chromadb>=0.4
+sentence-transformers>=2.2
+
+# Fine-tuning
+transformers>=4.35
+torch>=2.0
+datasets>=2.14
+scikit-learn>=1.3
+accelerate>=0.24
+
+# Database
+pymongo>=4.6
+
+# Utils
+numpy>=1.24
+pandas>=2.0
+tqdm>=4.65

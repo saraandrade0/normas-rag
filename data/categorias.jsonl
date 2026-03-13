@@ -1,0 +1,65 @@
+{"text": "Qual a bitola mínima do fio para chuveiro elétrico?", "label": "eletrica"}
+{"text": "Posso usar fio de 2.5mm para tomada de ar condicionado?", "label": "eletrica"}
+{"text": "Qual o disjuntor correto para circuito de 20A?", "label": "eletrica"}
+{"text": "Como dimensionar o quadro de distribuição de um apartamento?", "label": "eletrica"}
+{"text": "Precisa de DR para circuitos de banheiro?", "label": "eletrica"}
+{"text": "Qual a distância mínima entre tomadas na cozinha?", "label": "eletrica"}
+{"text": "Como calcular a demanda elétrica de um edifício comercial?", "label": "eletrica"}
+{"text": "Aterramento em estrutura metálica, qual norma seguir?", "label": "eletrica"}
+{"text": "Posso instalar tomada dentro do box do banheiro?", "label": "eletrica"}
+{"text": "Qual a seção mínima do condutor de proteção?", "label": "eletrica"}
+{"text": "Rampa de acessibilidade precisa de corrimão dos dois lados?", "label": "acessibilidade"}
+{"text": "Qual a inclinação máxima de rampa para cadeirante?", "label": "acessibilidade"}
+{"text": "Largura mínima de porta para acessibilidade?", "label": "acessibilidade"}
+{"text": "Banheiro acessível precisa de barra de apoio?", "label": "acessibilidade"}
+{"text": "Qual a altura correta do corrimão de escada?", "label": "acessibilidade"}
+{"text": "Piso tátil é obrigatório em calçadas?", "label": "acessibilidade"}
+{"text": "Vaga de estacionamento PCD, qual a dimensão?", "label": "acessibilidade"}
+{"text": "Elevador é obrigatório a partir de quantos andares?", "label": "acessibilidade"}
+{"text": "Sinalização em Braille é obrigatória em elevadores?", "label": "acessibilidade"}
+{"text": "Qual o espaço de giro mínimo para cadeira de rodas?", "label": "acessibilidade"}
+{"text": "Qual o espaçamento máximo entre pilares de concreto armado?", "label": "estrutural"}
+{"text": "Cobrimento mínimo de armadura em viga de concreto?", "label": "estrutural"}
+{"text": "Como dimensionar uma laje de concreto armado?", "label": "estrutural"}
+{"text": "Qual a resistência mínima do concreto para fundação?", "label": "estrutural"}
+{"text": "Pode usar aço CA-60 em pilar?", "label": "estrutural"}
+{"text": "Qual a flecha máxima admissível em viga?", "label": "estrutural"}
+{"text": "Como calcular carga de vento em estrutura metálica?", "label": "estrutural"}
+{"text": "Qual a taxa mínima de armadura em pilar?", "label": "estrutural"}
+{"text": "Fundação em estaca, quando usar?", "label": "estrutural"}
+{"text": "Qual a norma para projeto de estrutura de madeira?", "label": "estrutural"}
+{"text": "Qual o diâmetro mínimo de tubulação de esgoto?", "label": "hidraulica"}
+{"text": "Inclinação mínima de tubo de esgoto horizontal?", "label": "hidraulica"}
+{"text": "Como dimensionar caixa d'água de edifício?", "label": "hidraulica"}
+{"text": "Precisa de ventilação na tubulação de esgoto?", "label": "hidraulica"}
+{"text": "Qual a pressão mínima em ponto de chuveiro?", "label": "hidraulica"}
+{"text": "Tubo PPR pode ser embutido na parede?", "label": "hidraulica"}
+{"text": "Caixa de gordura é obrigatória?", "label": "hidraulica"}
+{"text": "Qual o material correto para tubo de água quente?", "label": "hidraulica"}
+{"text": "Como dimensionar bomba de recalque?", "label": "hidraulica"}
+{"text": "Distância mínima entre fossa e poço artesiano?", "label": "hidraulica"}
+{"text": "Extintor de incêndio, qual a distância máxima entre eles?", "label": "incendio"}
+{"text": "Saída de emergência, largura mínima?", "label": "incendio"}
+{"text": "Sprinkler é obrigatório em que tipo de edificação?", "label": "incendio"}
+{"text": "Qual a distância máxima até a saída de emergência?", "label": "incendio"}
+{"text": "Porta corta-fogo, quando é obrigatória?", "label": "incendio"}
+{"text": "Hidrante de parede, qual a altura de instalação?", "label": "incendio"}
+{"text": "Sinalização de emergência, qual a norma?", "label": "incendio"}
+{"text": "Central de GLP precisa de ventilação?", "label": "incendio"}
+{"text": "Escada pressurizada é obrigatória quando?", "label": "incendio"}
+{"text": "Detector de fumaça é obrigatório em residência?", "label": "incendio"}
+{"text": "Qual o recuo mínimo de frente para residência?", "label": "urbanismo"}
+{"text": "Taxa de ocupação máxima do terreno?", "label": "urbanismo"}
+{"text": "Coeficiente de aproveitamento, como calcular?", "label": "urbanismo"}
+{"text": "Pode construir no recuo lateral?", "label": "urbanismo"}
+{"text": "Qual a área mínima de terreno para desmembramento?", "label": "urbanismo"}
+{"text": "Gabarito máximo de altura em zona residencial?", "label": "urbanismo"}
+{"text": "Calçada, qual a largura mínima?", "label": "urbanismo"}
+{"text": "Muro de divisa, qual a altura máxima?", "label": "urbanismo"}
+{"text": "Precisa de EIV para construir shopping?", "label": "urbanismo"}
+{"text": "Qual a taxa de permeabilidade mínima?", "label": "urbanismo"}
+{"text": "Como obter certidão de habite-se?", "label": "geral"}
+{"text": "ART ou RRT, qual a diferença?", "label": "geral"}
+{"text": "Prazo de validade de um alvará de construção?", "label": "geral"}
+{"text": "Precisa de laudo técnico para reforma?", "label": "geral"}
+{"text": "O que é CREA e o que é CAU?", "label": "geral"}

@@ -1,0 +1,19 @@
+# Data
+data/pdfs/
+data/chroma_db/
+
+# Model
+finetune/model/
+
+# Environment
+.env
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
