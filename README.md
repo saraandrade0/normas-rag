@@ -55,17 +55,28 @@ Pergunta do usuário
 ## 📁 Estrutura
 normas-rag/
 ├── README.md
+
 ├── requirements.txt
+
 ├── .env.example
+
 ├── data/
+
 │   ├── pdfs/                   # PDFs das normas (não versionados)
+
 │   └── categorias.jsonl        # Dataset para fine-tuning
+
 ├── finetune/
+
 │   └── train_classifier.py     # Script de fine-tuning BERT
+
 ├── scripts/
 │   ├── ingest.py               # Llama Parse → MongoDB
+
 │   └── embed.py                # Gera embeddings → ChromaDB
+
 └── api/
+
 ├── app.py                  # FastAPI
 ├── search.py               # Busca híbrida
 ├── classifier.py           # Wrapper do classificador
