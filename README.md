@@ -54,6 +54,7 @@ Pergunta do usuário
 
 ## 📁 Estrutura
 normas-rag/
+
 ├── README.md
 
 ├── requirements.txt
@@ -78,8 +79,11 @@ normas-rag/
 └── api/
 
 ├── app.py                  # FastAPI
+
 ├── search.py               # Busca híbrida
+
 ├── classifier.py           # Wrapper do classificador
+
 └── prompts.py              # Templates de prompts
 
 ## 🚀 Setup
@@ -107,7 +111,6 @@ python scripts/embed.py
 ### 4. Fine-tuning do classificador (opcional)
 ```bash
 python finetune/train_classifier.py --data data/categorias.jsonl --epochs 5
-python finetune/evaluate.py
 ```
 
 ### 5. Rodar API
